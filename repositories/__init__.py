@@ -1,0 +1,5 @@
+from .aluno_repository import AlunoRepository
+from .disciplina_repository import DisciplinaRepository
+from .matricula_repository import MatriculaRepository
+from .professor_repository import ProfessorRepository
+from .oferta_disciplina_repository import OfertaDisciplinaRepository
