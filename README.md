@@ -6,7 +6,7 @@ Este projeto é um sistema de gestão de ofertas de disciplinas propostos para E
 
 1. Clone o repositório:
     ```bash 
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/candido-caymmi/desafio-EXAPE.git
     ```
 
 2. Crie um ambiente virtual:
